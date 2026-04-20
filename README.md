@@ -157,4 +157,4 @@ rix/
 
 ## 许可
 
-本项目基于基于 textstat.py 开源算法库许可证开源。具体许可信息请参见 textstat 文件。
+本项目基于 textstat.py 开源算法库许可证开源。具体许可信息请参见 textstat 文件。
