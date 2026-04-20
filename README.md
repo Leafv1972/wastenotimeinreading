@@ -10,6 +10,7 @@ RIX（Readability Index）是一种衡量文本难度的指标，通过计算文
 
 
 https://gitee.com/leafv1972/rix
+
 https://github.com/Leafv1972/wastenotimeinreading
 
 ## 功能特性
