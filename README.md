@@ -1,6 +1,6 @@
 https://gitee.com/leafv1972/rix
 
-https://github.com/Leafv1972/wastenotimeinreading
+https://github.com/Leafv1972/rix
 
  **_Note that Python 3.12.10 cannot be used on Windows 7 or earlier._** 
 
