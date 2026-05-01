@@ -467,3 +467,7 @@ if __name__ == "__main__":
         if not word: continue
         ```
 *   **屏幕刷新**：原程序在 TRS-80 上通过 `PRINT@` 精确定位光标。Python 版本使用简单的多行打印。如果你希望在终端中实现类似“原地更新”的效果，可以使用 ANSI 转义序列，但对于学术研究和日常分析，多行打印更清晰且不易出错。
+
+**附录3：rix_py312b10_maincode_package**
+
+![](!!!!!!%5BUTF-8%5D-RixI_textstat-0.png)
